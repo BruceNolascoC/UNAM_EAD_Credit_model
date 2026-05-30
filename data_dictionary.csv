@@ -1,0 +1,15 @@
+Variable,Descripción
+DiasMora,Número de Días de atraso del crédito en t_0
+Factor,(EI)/(Saldo en el to) 
+STOTAL,Saldo Contable del crédito en t0
+df_Life_M,Número de meses desde la fecha de alta del crédito hasta el mes t_0
+utilizacion,(Saldo contable de la linea)/(Monto Autorizado de la línea)  en el mes t0
+prom_saldo_6m,Transformación de un promedio móvil de 6 meses hacia atrás.
+prom_diasmora_6m,Transformación de un promedio móvil de 6 meses hacia atrás.
+prom_df_life_M_6m,Transformación de un promedio móvil de 6 meses hacia atrás.
+prom_utilizacion_6m,Transformación de un promedio móvil de 6 meses hacia atrás.
+prom_saldo_12m,Transformación de un promedio móvil de 12 meses hacia atrás.
+prom_diasmora_12m,Transformación de un promedio móvil de 12 meses hacia atrás.
+prom_df_life_M_12m,Transformación de un promedio móvil de 12 meses hacia atrás.
+prom_utilizacion_12m,Transformación de un promedio móvil de 12 meses hacia atrás.
+mar_emp,"1 si los recursos se realizo con tarjeta de crédito, 0 no se realizo con una tarjeta de crédito."

@@ -1,0 +1,15 @@
+item,value
+source_file,data.csv
+rows,10000
+columns,31
+duplicate_rows,0
+target_missing,0
+target_non_positive,0
+stotal_non_positive,0
+utilization_above_1,2848
+factor_p50,1.027573627
+factor_p90,1.2211440998
+factor_p99,2.1939424906700005
+estimated_ei_p50,110933.86997310321
+estimated_ei_p90,1825530.6700023024
+estimated_ei_p99,6069302.24

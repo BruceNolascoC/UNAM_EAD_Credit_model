@@ -1,0 +1,15 @@
+,dtype,non_null,missing,missing_rate,n_unique
+mar_emp,int64,10000,0,0.0,2
+DiasMora,int64,10000,0,0.0,85
+Factor,float64,10000,0,0.0,9305
+STOTAL,float64,10000,0,0.0,9797
+df_Life_M,int64,10000,0,0.0,188
+utilizacion,float64,10000,0,0.0,9795
+prom_saldo_6m,float64,10000,0,0.0,9911
+prom_diasmora_6m,float64,10000,0,0.0,402
+prom_df_life_M_6m,float64,10000,0,0.0,403
+prom_utilizacion_6m,float64,10000,0,0.0,9934
+prom_saldo_12m,float64,10000,0,0.0,9948
+prom_diasmora_12m,float64,10000,0,0.0,662
+prom_df_life_M_12m,float64,10000,0,0.0,670
+prom_utilizacion_12m,float64,10000,0,0.0,9963
